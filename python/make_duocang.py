@@ -3,7 +3,7 @@ import os
 
 # 定义你的 Cloudflare 专属域名（如果绑定了独立域名也可以填独立域名）
 # 脚本会自动把这个变量拼接到多仓文件的首位
-CF_DOMAIN = "https://tvbox-api.hhmm.kdns.fr/" 
+CF_DOMAIN = "https://tvbox-api.hhmm.kdns.fr" 
 
 def generate_duocang():
     list_path = 'list.txt'
