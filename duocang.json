@@ -2,15 +2,15 @@
   "urls": [
     {
       "name": "🔥 海量点播 自动去重聚合",
-      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/海量点播聚合接口.json"
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%B5%B7%E9%87%8F%E7%82%B9%E6%92%AD%E8%81%9A%E5%90%88%E6%8E%A5%E5%8F%A3.json"
     },
     {
       "name": "📺 海量直播 5层穿透聚合",
-      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/海量直播聚合接口.json"
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%B5%B7%E9%87%8F%E7%9B%B4%E6%92%AD%E8%81%9A%E5%90%88%E6%8E%A5%E5%8F%A3.json"
     },
     {
       "name": "🐍 海量Py爬虫 聚合接口",
-      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/海量py聚合接口.json"
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%B5%B7%E9%87%8Fpy%E8%81%9A%E5%90%88%E6%8E%A5%E5%8F%A3.json"
     }
   ]
 }
