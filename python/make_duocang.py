@@ -10,7 +10,7 @@ def generate_duocang():
     output_path = 'duocang.json'
     
     # 对中文文件名进行标准的 URL 编码，防止影视仓识别中文路径报错
-    url_db = urllib.parse.quote("tvbox/海量点播聚合接口.json")
+    url_db = urllib.parse.quote("tvbox/海量采集聚合接口.json")
     url_zb = urllib.parse.quote("tvbox/海量直播聚合接口.json")
     url_py = urllib.parse.quote("tvbox/海量py聚合接口.json")
 
