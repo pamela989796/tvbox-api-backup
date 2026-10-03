@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "🔥 海量点播 自动去重聚合",
+      "url": "https://tvbox-api.hhmm.kdns.fr//tvbox/海量点播聚合接口.json"
+    },
+    {
+      "name": "📺 海量直播 5层穿透聚合",
+      "url": "https://tvbox-api.hhmm.kdns.fr//tvbox/海量直播聚合接口.json"
+    },
+    {
+      "name": "🐍 海量Py爬虫 聚合接口",
+      "url": "https://tvbox-api.hhmm.kdns.fr//tvbox/海量py聚合接口.json"
+    }
+  ]
+}
