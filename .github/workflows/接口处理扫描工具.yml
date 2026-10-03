@@ -52,6 +52,16 @@ jobs:
         env:
           PYTHONIOENCODING: utf-8
           PYTHONUNBUFFERED: "1"
+      # ==========================================
+      # 💡 在这里插入：全自动组装并生成影视仓多仓文件
+      # ==========================================
+      - name: 自动生成多仓 duocang.json
+        run: |
+          python python/make_duocang.py
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUNBUFFERED: "1"
+     
 
       - name: 汇总输出产物
         run: |
