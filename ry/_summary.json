@@ -1,8 +1,8 @@
 {
-  "time": "2026-11-11 03:00:07",
+  "time": "2026-11-11 03:11:13",
   "output_dir": "/home/runner/work/tvbox-api-backup/tvbox-api-backup/ry",
   "total": 8,
-  "success": 7,
+  "success": 8,
   "items": [
     {
       "name": "潇洒下载",
@@ -12,10 +12,9 @@
     },
     {
       "name": "奇奇下载",
-      "url": "http://bd.qiqiv.cn/666.json",
-      "file": null,
-      "ok": false,
-      "error": "all failed: HTTPConnectionPool(host='bd.qiqiv.cn', port=80): Read timed out. (read timeout=20)"
+      "url": "https://cdn.jsdelivr.net/gh/lubin776/tvbox-api-backup@main/ry/奇奇下载.json",
+      "file": "./ry/奇奇下载.json",
+      "ok": true
     },
     {
       "name": "菠菜园下载",

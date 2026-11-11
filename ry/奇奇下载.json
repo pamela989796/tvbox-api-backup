@@ -3,33 +3,42 @@
     "name": "推荐",
     "list": [
       {
-        "name": "点击下载①",
-        "url": "https://gh-proxy.com/github.com/lubin776/trigger-download/releases/download/latest/tvboxqq.zip",
-        "icon": "http://bd.qiqiv.cn/更新.jpg",
-        "version": "09.23"
+        "name": "公众号：奇奇资源库",
+        "icon": "http://bd.qiqiv.cn/公众号.jpg"
       },
       {
-        "name": "点击下载②",
-        "url": "https://mpimg.cn/down.php/c940f6ccf420663892779382fdf2894e.zip",
-        "icon": "http://bd.qiqiv.cn/更新.jpg",
-        "version": "09.23"
+        "name": "流量卡免费申请",
+        "icon": "http://a.qiqiv.cn/img/ka.jpg"
       }
     ]
   },
   {
-    "name": "奇奇本地包",
+    "name": "每月2号，16号更新",
     "list": [
       {
-        "name": "点击下载①",
-        "url": "https://gh-proxy.com/github.com/lubin776/trigger-download/releases/download/latest/tvboxqq.zip",
+        "name": "每月2号，16号更新",
+        "url": "https://x.qiqiv.cn/d/666/测试包.zip",
         "icon": "http://bd.qiqiv.cn/更新.jpg",
-        "version": "09.23"
+        "version": "11.09"
       },
       {
-        "name": "点击下载②",
-        "url": "https://mpimg.cn/down.php/c940f6ccf420663892779382fdf2894e.zip",
-        "icon": "http://bd.qiqiv.cn/更新.jpg",
-        "version": "09.23"
+        "name": "“南风”线路补丁",
+        "url": "https://x.qiqiv.cn/d/666/南风.zip",
+        "icon": "http://bd.qiqiv.cn/南风.jpg",
+        "version": "2026.06.10"
+      }
+    ]
+  },
+  {
+    "name": "最新：20261109",
+    "list": [
+      {
+        "name": "公众号：奇奇资源库",
+        "icon": "http://bd.qiqiv.cn/论坛.jpg"
+      },
+      {
+        "name": "配置说明",
+        "icon": "http://bd.qiqiv.cn/说明.jpg"
       }
     ]
   }
