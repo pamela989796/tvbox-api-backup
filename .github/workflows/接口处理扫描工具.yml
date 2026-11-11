@@ -16,6 +16,11 @@ on:
       - 'python/**'
       - '.github/workflows/tvbox_scan.yml'
 
+# 💡 必须配置：赋予 git push 提交权限 和 自动清理日志权限
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest
@@ -52,16 +57,13 @@ jobs:
         env:
           PYTHONIOENCODING: utf-8
           PYTHONUNBUFFERED: "1"
-      # ==========================================
-      # 💡 在这里插入：全自动组装并生成影视仓多仓文件
-      # ==========================================
+
       - name: 自动生成多仓 duocang.json
         run: |
           python python/make_duocang.py
         env:
           PYTHONIOENCODING: utf-8
           PYTHONUNBUFFERED: "1"
-     
 
       - name: 汇总输出产物
         run: |
@@ -90,3 +92,12 @@ jobs:
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 💡 自动清理旧日志：保留最近 1 天且最少保留 3 次记录
+      - name: 自动清理历史运行记录
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1          # 保留天数
+          keep_minimum_runs: 3     # 最少保留最近 3 次运行记录
