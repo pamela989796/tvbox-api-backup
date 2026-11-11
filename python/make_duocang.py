@@ -13,12 +13,24 @@ def generate_duocang():
     url_db = urllib.parse.quote("tvbox/海量采集聚合接口.json")
     url_zb = urllib.parse.quote("tvbox/海量直播聚合接口.json")
     url_py = urllib.parse.quote("tvbox/海量py聚合接口.json")
+    url_bcpro = urllib.parse.quote("tvbox/X4菠菜pro.json")
+    url_aw = urllib.parse.quote("tvbox/嗷呜.json")
+    url_my = urllib.parse.quote("tvbox/摸鱼.json")
+    url_xs = urllib.parse.quote("tvbox/潇洒.json")
+    url_wex = urllib.parse.quote("tvbox/王二小.json")
+    url_fty = urllib.parse.quote("tvbox/饭太硬.json")
 
     # 基础核心聚合仓
     urls_list = [
         {"name": "🔥 海量点播 自动去重聚合", "url": f"{CF_DOMAIN}/{url_db}"},
         {"name": "📺 海量直播 5层穿透聚合", "url": f"{CF_DOMAIN}/{url_zb}"},
         {"name": "🐍 海量Py爬虫 聚合接口", "url": f"{CF_DOMAIN}/{url_py}"}
+        {"name": "🥬 X4菠菜pro 线路", "url": f"{CF_DOMAIN}/{url_bcpro}"},
+        {"name": "🐺 嗷呜 线路", "url": f"{CF_DOMAIN}/{url_aw}"},
+        {"name": "🐟 摸鱼 线路", "url": f"{CF_DOMAIN}/{url_my}"},
+        {"name": "✨ 潇洒 线路", "url": f"{CF_DOMAIN}/{url_xs}"},
+        {"name": "🐮 王二小 线路", "url": f"{CF_DOMAIN}/{url_wex}"},
+        {"name": "🍚 饭太硬 线路", "url": f"{CF_DOMAIN}/{url_fty}"}
     ]
     
     # 2. 自动读取 list.txt，追加其他 90+ 条独立线路
