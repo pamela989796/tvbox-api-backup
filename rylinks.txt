@@ -9,6 +9,7 @@
 天神下载, https://cdn.jsdelivr.net/gh/IY-CPU/IY@main/天神小屋.png
 应用市场二, https://cdn.jsdelivr.net/gh/woshishiq1/hipy-drpy2@main/wzxxcz/json/market.json
 应用市场一, https://cdn.jsdelivr.net/gh/SimonWang911/simonwangsub@main/appupdate/appupdate.json
+FongMi官方应用市场 https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/market.json
 
 # 本地调试示例（需要时取消注释，DISABLE_WAF=True 生效）
 # 本地测试, file:///data/workspace/test_data/single.json
