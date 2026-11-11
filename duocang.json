@@ -11,6 +11,30 @@
     {
       "name": "🐍 海量Py爬虫 聚合接口",
       "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%B5%B7%E9%87%8Fpy%E8%81%9A%E5%90%88%E6%8E%A5%E5%8F%A3.json"
+    },
+    {
+      "name": "🥬 X4菠菜pro 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/X4%E8%8F%A0%E8%8F%9Cpro.json"
+    },
+    {
+      "name": "🐺 嗷呜 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E5%97%B7%E5%91%9C.json"
+    },
+    {
+      "name": "🐟 摸鱼 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%91%B8%E9%B1%BC.json"
+    },
+    {
+      "name": "✨ 潇洒 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E6%BD%87%E6%B4%92.json"
+    },
+    {
+      "name": "🐮 王二小 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E7%8E%8B%E4%BA%8C%E5%B0%8F.json"
+    },
+    {
+      "name": "🍚 饭太硬 线路",
+      "url": "https://tvbox-api.hhmm.kdns.fr/tvbox/%E9%A5%AD%E5%A4%AA%E7%A1%AC.json"
     }
   ]
 }
