@@ -24,7 +24,7 @@ def generate_duocang():
     urls_list = [
         {"name": "🔥 海量点播 自动去重聚合", "url": f"{CF_DOMAIN}/{url_db}"},
         {"name": "📺 海量直播 5层穿透聚合", "url": f"{CF_DOMAIN}/{url_zb}"},
-        {"name": "🐍 海量Py爬虫 聚合接口", "url": f"{CF_DOMAIN}/{url_py}"}
+        {"name": "🐍 海量Py爬虫 聚合接口", "url": f"{CF_DOMAIN}/{url_py}"},
         {"name": "🥬 X4菠菜pro 线路", "url": f"{CF_DOMAIN}/{url_bcpro}"},
         {"name": "🐺 嗷呜 线路", "url": f"{CF_DOMAIN}/{url_aw}"},
         {"name": "🐟 摸鱼 线路", "url": f"{CF_DOMAIN}/{url_my}"},
