@@ -1,5 +1,5 @@
 {
-  "spider": "https://img.51shazhu.com/autoupload/g1b6f/20261002/6R47/0X0/10022145.png;md5;e30f824ced981f302a1bafe422249cee",
+  "spider": "https://aly2.tuchuangyun.top/autoupload/g1b6f/20261111/S2Go/0X0/11110833.png;md5;c25d34b0cfc044cd1ab3f225097ea7fd",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "sites": [
@@ -49,6 +49,25 @@
       }
     },
     {
+      "key": "米诺",
+      "name": "米诺 • APP",
+      "type": 3,
+      "api": "csp_AppMN",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "快映fox",
+      "name": "快映 • APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.pjb777.top/ky4kbgq7b273.json"
+    },
+    {
       "key": "一起影视",
       "name": "一起 • APP",
       "type": 3,
@@ -89,7 +108,7 @@
       "type": 3,
       "api": "csp_App3Q",
       "ext": {
-        "host": "https://45.150.167.18:8000",
+        "host": "https://skykb.com",
         "finger": "https://9877.kstore.space/SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
         "updateId": "https://9877.kstore.space/43c1ef69-3748-aaeb-317f-c621c77653ee",
         "deviceBrand": "https://9877.kstore.space/vivo",
@@ -164,12 +183,12 @@
       "ext": {
         "appName": "https://9877.kstore.space/橘汁",
         "publicKey": "https://9877.kstore.space/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "https://9877.kstore.space/OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataKey": "https://9877.kstore.space/ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "https://9877.kstore.space/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://9877.kstore.space/com.mxj.wylcjbxyx",
+        "pkg": "https://9877.kstore.space/com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "https://9877.kstore.space/3.0.2.4",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
+        "version": "https://9877.kstore.space/3.0.7.0",
         "decrypt": "1"
       }
     },
@@ -183,14 +202,14 @@
       "filterable": 1,
       "ext": {
         "appName": "https://9877.kstore.space/华谊",
-        "publicKey": "https://9877.kstore.space/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey": "https://9877.kstore.space/NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+        "publicKey": "https://9877.kstore.space/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "https://9877.kstore.space/V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
         "dataIv": "https://9877.kstore.space/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://9877.kstore.space/com.muyue.tool",
+        "pkg": "https://9877.kstore.space/com.lxf.sncgtzxyx",
         "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "https://9877.kstore.space/1.0.0.4",
-        "decrypt": "1"
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
+        "version": "https://9877.kstore.space/6.0.0.1",
+        "decrypt": "0"
       }
     },
     {
@@ -244,32 +263,6 @@
       }
     },
     {
-      "key": "世界",
-      "name": "世界 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcms.4ksj.app",
-        "dataKey": "https://9877.kstore.space/O3K6rYx75Q4xtiIE",
-        "dataIv": "https://9877.kstore.space/O3K6rYx75Q4xtiIE"
-      }
-    },
-    {
-      "key": "魔方",
-      "name": "魔方 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://www.douy32mf.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      }
-    },
-    {
       "key": "王子",
       "name": "王子 • APP",
       "type": 3,
@@ -283,7 +276,7 @@
       }
     },
     {
-      "key": "茉莉",
+      "key": "茉莉Get",
       "name": "茉莉 • APP",
       "type": 3,
       "api": "csp_AppGet",
@@ -408,6 +401,25 @@
       "timeout": 60
     },
     {
+      "key": "蜡笔",
+      "name": "蜡笔 • 4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.fmcf.fun",
+          "https://www.mmpanpan.site",
+          "http://tvpanpan.site",
+          "http://www.tvpanpan.site"
+        ]
+      },
+      "timeout": 60
+    },
+    {
       "key": "多多",
       "name": "多多 • 4K",
       "type": 3,
@@ -495,6 +507,16 @@
       "timeout": 60
     },
     {
+      "key": "搬运",
+      "name": "搬运 • 4K",
+      "type": 3,
+      "api": "csp_BanYunDao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
       "key": "指南",
       "name": "指南 • 4K",
       "type": 3,
@@ -502,6 +524,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kzn.cc"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "小丑",
+      "name": "小丑 • 4K",
+      "type": 3,
+      "api": "csp_4KZhinan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://4kxc.com"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "茉莉",
+      "name": "茉莉 • 4K",
+      "type": 3,
+      "api": "csp_HDmoli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hdmoli.com",
+          "https://www.hdmoli.pro"
+        ]
+      },
       "timeout": 60
     },
     {
@@ -519,16 +577,6 @@
       "name": "移动 • 4K",
       "type": 3,
       "api": "csp_Yidong4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "人人",
-      "name": "人人 • 4K",
-      "type": 3,
-      "api": "csp_RenRen",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -572,6 +620,13 @@
         "type": "list"
       },
       "timeout": 60
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果 • 短剧",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
+      "genre": "shortdrama"
     },
     {
       "key": "七猫短剧",
@@ -622,16 +677,47 @@
       "genre": "shortdrama"
     },
     {
+      "key": "懂片",
+      "name": "懂片 • 影视",
+      "type": 3,
+      "api": "csp_DongPian"
+    },
+    {
+      "key": "杜北",
+      "name": "杜北 • 影视",
+      "type": 3,
+      "api": "csp_Dubk"
+    },
+    {
+      "key": "星辰影视",
+      "name": "星辰 • 影视",
+      "type": 3,
+      "api": "csp_XingChen"
+    },
+    {
       "key": "飞娱影视",
       "name": "飞娱 • 影视",
       "type": 3,
       "api": "csp_Feiyu"
     },
     {
+      "key": "旺旺影视",
+      "name": "旺旺 • 影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
       "key": "独播影视",
       "name": "独播 • 影视",
       "type": 3,
       "api": "csp_Duboku"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子 • 影视",
+      "type": 3,
+      "api": "csp_Gz360"
     },
     {
       "key": "厂长影视",
@@ -674,19 +760,6 @@
       "filterable": 1
     },
     {
-      "key": "面包影视",
-      "name": "面包 • 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "https://9877.kstore.space/User-Agent$MOBILE_UA",
-        "编码": "https://9877.kstore.space/UTF-8",
-        "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "https://9877.kstore.space/电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-        "简介": "https://9877.kstore.space/简介：&&"
-      }
-    },
-    {
       "key": "1905",
       "name": "1905 • 影视",
       "type": 3,
@@ -723,55 +796,46 @@
       }
     },
     {
-      "key": "双星99",
-      "name": "双星 • 动漫",
+      "key": "赏月",
+      "name": "赏月 • 动漫",
       "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://111.180.139.119:19987/app/bn",
-        "LoginPath": "https://9877.kstore.space/app/log",
-        "versionName": "https://9877.kstore.space/6.4.9",
-        "name": "https://9877.kstore.space/双子星动漫",
-        "package": "https://9877.kstore.space/com.haiwang.liangxia.my.ym",
-        "buildNumber": "2001",
-        "buildSignature": "https://9877.kstore.space/A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
+      "api": "csp_AnimeTsukimi"
     },
     {
-      "key": "咕咕动漫",
-      "name": "咕咕 • 动漫",
+      "key": "稀饭",
+      "name": "稀饭 • 动漫",
       "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.gugu3.com",
-        "dataKey": "https://9877.kstore.space/nKfZ8KX6JTNWRzTD",
-        "dataIv": "https://9877.kstore.space/nKfZ8KX6JTNWRzTD"
-      }
+      "api": "csp_AnimeXifan"
     },
     {
       "key": "巴士动漫",
       "name": "巴士 • 动漫",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "https://9877.kstore.space/User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
-        "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
-        "分类": "https://9877.kstore.space/国漫$1#日漫$2#欧美动漫$3#电影$4",
-        "数组": "https://9877.kstore.space/class=\"item\">&&</li>",
-        "简介": "https://9877.kstore.space/剧情：&&</p>",
-        "标题": "https://9877.kstore.space/title=\"&&在线观看\"",
-        "副标题": "https://9877.kstore.space/desc\">&&</span>",
-        "图片": "https://9877.kstore.space/data-bg=\"&&\"",
-        "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
-        "倒序": "1"
-      }
+      "api": "csp_AnimeBashi"
+    },
+    {
+      "key": "吉里动漫",
+      "name": "吉里 • 动漫",
+      "type": 3,
+      "api": "csp_AnimeGiri"
+    },
+    {
+      "key": "花子动漫",
+      "name": "花子 • 动漫",
+      "type": 3,
+      "api": "csp_AnimeHuazi"
     },
     {
       "key": "荐片",
       "name": "荐片 • 磁力",
       "api": "csp_JianPian",
-      "type": 3
+      "type": 3,
+      "ext": {
+        "site": [
+          "https://www.whhyn.com",
+          "https://www.zxfmj.com"
+        ]
+      }
     },
     {
       "key": "New6v",
@@ -801,6 +865,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me"
+    },
+    {
+      "key": "电影港",
+      "name": "电影港 • 磁力",
+      "type": 3,
+      "api": "csp_DianYingG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "阿里云盘",
@@ -927,16 +1000,6 @@
       "timeout": 60
     },
     {
-      "key": "百酷",
-      "name": "百酷 • 搜索",
-      "type": 3,
-      "api": "csp_Baiku",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
       "key": "酷乐",
       "name": "酷乐 • 搜索",
       "type": 3,
@@ -947,10 +1010,10 @@
       "timeout": 60
     },
     {
-      "key": "鬼鬼",
-      "name": "鬼鬼 • 搜索",
+      "key": "百酷",
+      "name": "百酷 • 搜索",
       "type": 3,
-      "api": "csp_GuiGui",
+      "api": "csp_Baiku",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1015,6 +1078,18 @@
       }
     },
     {
+      "key": "球通体育",
+      "name": "球通 • 体育",
+      "type": 3,
+      "api": "csp_SportQiutong",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "呦呦DJ",
       "name": "呦呦 • DJ",
       "type": 3,
@@ -1039,13 +1114,22 @@
       }
     },
     {
-      "key": "世界听书",
-      "name": "世界 • 听书",
+      "key": "听友听书",
+      "name": "听友 • 听书",
       "type": 3,
-      "api": "csp_TingShijie",
+      "api": "csp_TingTingyou",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "世界听书",
+      "name": "世界 • 听书",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
       "style": {
         "type": "list"
       }
