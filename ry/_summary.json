@@ -1,7 +1,7 @@
 {
-  "time": "2026-11-11 03:11:13",
+  "time": "2026-11-11 03:15:29",
   "output_dir": "/home/runner/work/tvbox-api-backup/tvbox-api-backup/ry",
-  "total": 8,
+  "total": 9,
   "success": 8,
   "items": [
     {
@@ -51,6 +51,13 @@
       "url": "https://cdn.jsdelivr.net/gh/SimonWang911/simonwangsub@main/appupdate/appupdate.json",
       "file": "./ry/应用市场一.json",
       "ok": true
+    },
+    {
+      "name": "local",
+      "url": "FongMi官方应用市场 https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/market.json",
+      "file": null,
+      "ok": false,
+      "error": "all failed: No connection adapters were found for 'FongMi官方应用市场 https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/market.json'"
     }
   ]
 }
